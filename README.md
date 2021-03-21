@@ -2,7 +2,7 @@
 
 #### Links:
 
-[BLog](https://dev.to/worldindev)
+[Blog](https://dev.to/worldindev)
 [Twitter](https://twitter.com/WorldInDev)
 [Discord](https://discord.gg/gXfCWMye)
 
