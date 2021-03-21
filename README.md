@@ -1,11 +1,14 @@
 # WorldInDev
 
-### Links:
+#### Links:
 
-Dev.to Organization:
-Twitter:
-Discord:
+[BLog](https://dev.to/worldindev)
+[Twitter](https://twitter.com/WorldInDev)
+[Discord](https://discord.gg/gXfCWMye)
 
+#### Article:
+Image: ![Progetto senza titolo](https://user-images.githubusercontent.com/78320052/111912053-3a0b8f00-8a68-11eb-8437-9092afa168eb.png)
+Tags: career, beginners, javascript, webdev
 Markdown for the article:
 
 ---
