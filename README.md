@@ -5,6 +5,8 @@
 [Blog](https://dev.to/worldindev)
 [Twitter](https://twitter.com/WorldInDev)
 [Discord](https://discord.gg/gXfCWMye)
+[Newsletter](https://app.convertkit.com/forms/designers/2136426/edit)
+[Patreon](https://www.patreon.com/bePatron?u=52617503)
 
 #### Article:
 Cover: ![Progetto senza titolo](https://user-images.githubusercontent.com/78320052/111912053-3a0b8f00-8a68-11eb-8437-9092afa168eb.png)
