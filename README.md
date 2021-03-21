@@ -40,9 +40,37 @@ Or: What do we do? Although we have already drawn the lines of our future path, 
 
 ![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ash96231zzgp1b26ijw.gif)
 
+### Our publications:
+
+#### Our artices:
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvmf6qfgd8x7f5qbl20p.png) 
+
++2 special articles every month for our [Patreon members](https://www.patreon.com/bePatron?u=52617503)
+
+#### Our events - only available on [Discord](https://discord.gg/gXfCWMye):
+
+--> Pair programming - Our server provides a program to stimulate creativity and teamwork, that needs to be enhanced in programming. We will create pairs with a more experienced developer and a less experienced one. They can get to know each other, exchange questions (especially for the newcomer), and train together. But above all, they can participate at...
+
+--> Code Battles! - We have in mind lots of weird and funny things to make dev compete. As we want to encourage our binomial program, many of our challenges will be in pairs. For example, only the less experienced of the two can write the code, but he can stay on call with his partner. We will also try to do more serious events like mini hackathons. 
+
+--> 100 days of code support - We encourage the brave who want to start or are doing the #100daysofcode. So we are starting a program to help does, more on discord.
+
+--> Blogging support - This is what I am most proud of, because I would have dreamed of having it when I started. We think that knowledge should have no limits, so every dev should blog about what they know. We provide free chat support for the entire process of creating a blog, from setup to publishing the first articles. And all the articles written with us will be featured in our daily digest! Now you understand why it's my favorite?
+
+--> Dev talks - We will need 1k+ members for that, but one of our dreams is to invite successful developers to talk at live events, hosted on discord.
+
+#### 🎉Giveaways🎉:
+
+In addition to our events, we will organize giveaways every month. We put the money for the first months, but then we hope to be able to offer more important prizes (or more prizes every month) thanks to sponsors and the great patreons members. Although there will be more members afterward, therefore less chance of winning.
+For this first month (April) we will gift a free Udemy course. The earlier you enter the more chances you have to participate and win!
+
+![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ash96231zzgp1b26ijw.gif)
+
 ## Our plans for the future
 
 First, we will try to create an active community on discord, dev.to, and twitter. Our major goal is to be able to help as many developers as possible, providing a community. Our second goal is to host how many events as possible, giveaways, hackathons, code battles... Then with a solid community, in the more distant future, we will create a website and extension to help developers in their daily life. A kind of dev companion with lots of features, but let's say no more for now...
+
+![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ash96231zzgp1b26ijw.gif)
 
 ## We also need your help
 
@@ -53,11 +81,11 @@ We can't do anything without you, you are all that matters...
 
 --> Join our socials, [discord](https://discord.gg/fUwN8HzT), to be able to participate at the events, and [Twitter](https://twitter.com/WorldInDev), to stay updated. 
 
---> [Join our Newsletter](https://chipper-motivator-3112.ck.page/05710ea3d3) - Leaving your email will allow you to stay updated on our upcoming events - It shouldn't take more than 5 minutes, and that's very important for us!
+--> [Join our Newsletter](https://chipper-motivator-3112.ck.page/05710ea3d3) - Leaving your email will allow you to stay updated on our upcoming events + receiving our weekly recap (with top articles, past and ongoing tech events, important product releases...) - It shouldn't take more than 5 minutes, and that's very important for us!
 
 ![Patreon (1)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jyy1pbp4uhpq2jtgtyab.png) 
 
---> [Join our patreon](https://www.patreon.com/bePatron?u=52617503) - exclusive content and perks for our supporters, [learn more here](https://www.patreon.com/bePatron?u=52617503)
+--> [Join our patreon](https://www.patreon.com/bePatron?u=52617503) - exclusive content and perks for our supporters, [learn more here](https://www.patreon.com/bePatron?u=52617503) - Also, we will need some funds to host the domain and to make giveaways and events. 
 
 --> Spread the voice:
 - Tell your friends, nothing difficult about that
@@ -76,6 +104,14 @@ PS: We are also searching for sponsors, come forward if you want to become one /
 📢 Thanks for reading and --> Happy coding!
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wi9106u2xd4ebhygrrxp.png "Our Logo, if you didn't understand")
+
+PS: If you've come here and haven't even clicked on a link, you're making me feel useless ... fix that now:
+
+[Blog](https://dev.to/worldindev)
+[Twitter](https://twitter.com/WorldInDev)
+[Discord](https://discord.gg/gXfCWMye)
+[Newsletter](https://app.convertkit.com/forms/designers/2136426/edit)
+[Patreon](https://www.patreon.com/bePatron?u=52617503)
 
 ```
 
