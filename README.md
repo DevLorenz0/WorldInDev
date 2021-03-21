@@ -42,12 +42,12 @@ Or: What do we do? Although we have already drawn the lines of our future path, 
 
 ### Our publications:
 
-#### Our artices:
+#### Articles:
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvmf6qfgd8x7f5qbl20p.png) 
 
 +2 special articles every month for our [Patreon members](https://www.patreon.com/bePatron?u=52617503)
 
-#### Our events - only available on [Discord](https://discord.gg/gXfCWMye):
+#### Events - only available on [Discord](https://discord.gg/gXfCWMye):
 
 --> Pair programming - Our server provides a program to stimulate creativity and teamwork, that needs to be enhanced in programming. We will create pairs with a more experienced developer and a less experienced one. They can get to know each other, exchange questions (especially for the newcomer), and train together. But above all, they can participate at...
 
@@ -112,7 +112,6 @@ PS: If you've come here and haven't even clicked on a link, you're making me fee
 [Discord](https://discord.gg/gXfCWMye)
 [Newsletter](https://app.convertkit.com/forms/designers/2136426/edit)
 [Patreon](https://www.patreon.com/bePatron?u=52617503)
-
 ```
 
 ---
