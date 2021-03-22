@@ -114,6 +114,11 @@ PS: If you've come here and haven't even clicked on a link, you're making me fee
 [Discord](https://discord.gg/gXfCWMye)
 [Newsletter](https://app.convertkit.com/forms/designers/2136426/edit)
 [Patreon](https://www.patreon.com/bePatron?u=52617503)
+
+[Original article:](https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5)
+
+{% link https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5 %}
+
 ```
 
 ---
