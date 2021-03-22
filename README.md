@@ -112,7 +112,7 @@ PS: If you've come here and haven't even clicked on a link, you're making me fee
 [Blog](https://dev.to/worldindev)
 [Twitter](https://twitter.com/WorldInDev)
 [Discord](https://discord.gg/gXfCWMye)
-[Newsletter](https://app.convertkit.com/forms/designers/2136426/edit)
+[Newsletter](https://chipper-motivator-3112.ck.page/05710ea3d3)
 [Patreon](https://www.patreon.com/bePatron?u=52617503)
 
 [Original article:](https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5)
