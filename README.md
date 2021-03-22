@@ -9,6 +9,8 @@
 [Patreon](https://www.patreon.com/bePatron?u=52617503)
 
 #### Article:
+Title: For Empowering Community: Announcing World In Dev
+
 Cover: ![Progetto senza titolo](https://user-images.githubusercontent.com/78320052/111912053-3a0b8f00-8a68-11eb-8437-9092afa168eb.png)
 Tags: career, beginners, javascript, webdev
 
