@@ -12,7 +12,7 @@ Markdown:
 
 This month, we will host a free Udemy course giveaway (a course of your choice).
 
-Join the giveaway on:
+Join the giveaway here:
 
 **[Discord](https://discord.gg/gXfCWMye)** <-- Click here!
 
