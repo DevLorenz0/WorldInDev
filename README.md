@@ -21,8 +21,6 @@ Markdown for the article:
 
 ---
 
-```markdown
-
 # 📢 `Hello World!!!`
 
 ![line break](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ash96231zzgp1b26ijw.gif)
@@ -200,7 +198,5 @@ PS: If you've come here and haven't even clicked on a link, you're making me fee
 [Original article:](https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5)
 
 {% link <https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5> %}
-
-```
 
 ---
