@@ -17,11 +17,9 @@ Title: Announcing World In Dev
 Cover: ![Progetto senza titolo](https://user-images.githubusercontent.com/78320052/111912053-3a0b8f00-8a68-11eb-8437-9092afa168eb.png)
 Tags: career, beginners, javascript, webdev
 
-Markdown for the article:
+The article:
 
 ---
-
-```markdown
 
 # 📢 `Hello World!!!`
 
@@ -200,7 +198,5 @@ PS: If you've come here and haven't even clicked on a link, you're making me fee
 [Original article:](https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5)
 
 {% link <https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5> %}
-
-```
 
 ---
