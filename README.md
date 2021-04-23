@@ -4,22 +4,14 @@
 
 [Blog](https://dev.to/worldindev)
 [Twitter](https://twitter.com/WorldInDev)
-[Discord](https://discord.gg/gXfCWMye)
-[Newsletter](https://app.convertkit.com/forms/designers/2136426/edit)
+[Discord](https://discord.gg/pkqqUj44t8)
+[Newsletter](https://worldindev.ck.page)
 [Patreon](https://www.patreon.com/bePatron?u=52617503)
 
-### Article
-
-You can directly copy each part in the correct dev.to field:
-
-Title: Announcing World In Dev
 
 Cover: ![Progetto senza titolo](https://user-images.githubusercontent.com/78320052/111912053-3a0b8f00-8a68-11eb-8437-9092afa168eb.png)
 Tags: career, beginners, javascript, webdev
 
-The article:
-
----
 
 # 📢 `Hello World!!!`
 
@@ -59,7 +51,7 @@ _Or: What do we do?_ Although we have already mapped the lines of our future pat
 
 We plan to start as a [DEV](https://dev.to/worldindev) based blogging organization, with different series running contemporaneously.
 
-Our presence will extend to [Discord](https://discord.gg/gXfCWMye), allowing us to be more user-focused. We don't want to be static. The main objective of going beyond a simple blog is to empower communication between developers and pair programming.
+Our presence will extend to [Discord](https://discord.gg/pkqqUj44t8), allowing us to be more user-focused. We don't want to be static. The main objective of going beyond a simple blog is to empower communication between developers and pair programming.
 
 Look at other famous websites in programming: Stack Overflow, GitHub, or even DEV. They are all based on devs helping other devs. And this is what we want to do.
 
@@ -103,13 +95,13 @@ For example, only the less experienced of the two can write the code, but they c
 
 #### **--> 100 Days of Code**
 
-We encourage the brave who want to start or are doing the #100daysofcode. So we are creating a program to help those individuals, more on our [Discord](https://discord.gg/gXfCWMye).
+We encourage the brave who want to start or are doing the #100daysofcode. So we are creating a program to help those individuals, more on our [Discord](https://discord.gg/pkqqUj44t8).
 
 #### **--> Dev Talks***
 
 We will need 1k+ members for that, but one of our dreams is to invite successful developers to talk at live events hosted on Discord.
 
-NOTE: Events Only Available on [Discord](https://discord.gg/gXfCWMye)
+NOTE: Events Only Available on [Discord](https://discord.gg/pkqqUj44t8)
 
 ![line break](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ash96231zzgp1b26ijw.gif)
 
@@ -125,7 +117,7 @@ For this first month (April), we will gift a free Udemy course. The earlier you 
 
 ## Our Plans for the Future
 
-First, we will work to build an active community on [Discord](https://discord.gg/gXfCWMye), [DEV](https://dev.to), and [Twitter](https://twitter.com/WorldInDev).
+First, we will work to build an active community on [Discord](https://discord.gg/pkqqUj44t8), [DEV](https://dev.to), and [Twitter](https://twitter.com/WorldInDev).
 
 Our primary goal is to be able to help as many developers as possible by cultivating a social community. Our second goal is to host how many events as possible, giveaways, hackathons, code battles...
 
@@ -143,11 +135,11 @@ We can't do anything without you; you are all that matters...
 
 --> Join our socials:
 
-* [Discord](https://discord.gg/fUwN8HzT), to participate at the events.
+* [Discord](https://discord.gg/pkqqUj44t8), to participate at the events.
 
 * [Twitter](https://twitter.com/WorldInDev), to stay updated.
 
---> Subscribe to [our newsletter](https://chipper-motivator-3112.ck.page/05710ea3d3):
+--> Subscribe to [our newsletter](https://worldindev.ck.page):
 
 * Stay updated on our upcoming events + receiving our weekly recap (with top articles, past and ongoing tech events, important product releases...).
 
@@ -174,7 +166,7 @@ PS: We are also searching for sponsors. Come forward if you want to become one /
 {% collapsible We are also recruiting %}
 
 * Bi-Weekly Authors - All subjects can be approved - You can write in private to @devlorenzo
-* [Discord](https://discord.gg/fUwN8HzT)  moderators
+* [Discord](https://discord.gg/pkqqUj44t8)  moderators
 
 * [Twitter](https://twitter.com/WorldInDev) admin/moderator
 
@@ -189,14 +181,9 @@ PS: We are also searching for sponsors. Come forward if you want to become one /
 PS: If you've come here and haven't even clicked on a link, you're making me feel useless... please, fix that now!
 
 > * [Blog](https://dev.to/worldindev)
->
 > * [Twitter](https://twitter.com/WorldInDev)
-> * [Discord](https://discord.gg/gXfCWMye)
-> * [Newsletter](https://chipper-motivator-3112.ck.page/05710ea3d3)
+> * [Discord](https://discord.gg/pkqqUj44t8)
+> * [Newsletter](https://worldindev.ck.page)
 > * [Patreon](https://www.patreon.com/bePatron?u=52617503)
-
-[Original article:](https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5)
-
-{% link <https://dev.to/worldindev/for-empowering-community-announcing-world-in-dev-4pf5> %}
 
 ---
